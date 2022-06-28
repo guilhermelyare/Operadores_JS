@@ -1,7 +1,7 @@
 # Sintaxe e Operadores
 Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", que faz parte do Basecamp de Javascript.
 
-Atividade
+##Atividade
 Crie uma função que recebe dois números como parâmetros.
 
 Confira se os números são iguais.
